@@ -41,8 +41,8 @@ CREATE TABLE `accounts` (
 --
 
 INSERT INTO `accounts` (`UserID`, `Password`, `FirstName`, `LastName`, `Account`, `Gender`) VALUES
-(1200, 'wjecje', ' mcf ', 'c m v', 'manager', 'Male'),
-(12001, 'mdd', 'cmn ', 'm d ', 'm. d ', 'Male'),
+(1200, 'Savindu@123', 'Savindu', 'Ruhunuhewa', 'manager', 'Male'),
+(12001, 'Gajidu@123', 'Gajidu', 'Bandara ', 'manager ', 'Male'),
 (19087, 'Himalika1', 'Himalika', 'Ruhunuhewa', 'Cashier', 'Female');
 
 -- --------------------------------------------------------
